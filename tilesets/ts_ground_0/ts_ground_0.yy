@@ -1,7 +1,9 @@
 {
   "$GMTileSet":"v1",
   "%Name":"ts_ground_0",
-  "autoTileSets":[],
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[20,27,26,9,16,19,0,8,15,0,21,10,31,30,32,0,],},
+  ],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
@@ -18,8 +20,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_ground_tile_0",
-    "path":"sprites/spr_ground_tile_0/spr_ground_tile_0.yy",
+    "name":"spr_ground_stone_tile",
+    "path":"sprites/spr_ground_stone_tile/spr_ground_stone_tile.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
