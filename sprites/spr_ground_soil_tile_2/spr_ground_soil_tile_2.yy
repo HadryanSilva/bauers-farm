@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_slope_tile",
+  "%Name":"spr_ground_soil_tile_2",
   "bboxMode":0,
-  "bbox_bottom":47,
+  "bbox_bottom":111,
   "bbox_left":0,
-  "bbox_right":95,
+  "bbox_right":175,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"d634d311-0b06-434f-8095-ed7a35d67e81","name":"d634d311-0b06-434f-8095-ed7a35d67e81","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"dae359fe-1df3-4b0d-89ab-a77be71b9149","name":"dae359fe-1df3-4b0d-89ab-a77be71b9149","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":48,
+  "height":112,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"3b1c8390-924c-4060-b53f-ef0892cac223","blendMode":0,"displayName":"default","isLocked":false,"name":"3b1c8390-924c-4060-b53f-ef0892cac223","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"620bf156-4f56-4b8d-aa46-16e446aec7b1","blendMode":0,"displayName":"default","isLocked":false,"name":"620bf156-4f56-4b8d-aa46-16e446aec7b1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_slope_tile",
+  "name":"spr_ground_soil_tile_2",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_slope_tile",
+    "%Name":"spr_ground_soil_tile_2",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_slope_tile",
+    "name":"spr_ground_soil_tile_2",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d634d311-0b06-434f-8095-ed7a35d67e81","path":"sprites/spr_slope_tile/spr_slope_tile.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"e61e37e3-c435-4bd4-85c7-71bb41dd805c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dae359fe-1df3-4b0d-89ab-a77be71b9149","path":"sprites/spr_ground_soil_tile_2/spr_ground_soil_tile_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"7fd4b929-f236-4748-9992-b5038ac1b01f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":96,
+  "width":176,
 }

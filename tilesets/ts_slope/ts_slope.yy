@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_slope_tile",
-    "path":"sprites/spr_slope_tile/spr_slope_tile.yy",
+    "name":"spr_slope_grass_tile",
+    "path":"sprites/spr_slope_grass_tile/spr_slope_grass_tile.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

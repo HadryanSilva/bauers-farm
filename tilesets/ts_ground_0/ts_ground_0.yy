@@ -20,8 +20,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_ground_stone_tile",
-    "path":"sprites/spr_ground_stone_tile/spr_ground_stone_tile.yy",
+    "name":"spr_ground_grass_stone_tile",
+    "path":"sprites/spr_ground_grass_stone_tile/spr_ground_grass_stone_tile.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
