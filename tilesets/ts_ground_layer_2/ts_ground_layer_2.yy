@@ -1,6 +1,6 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"ts_ground_0",
+  "%Name":"ts_ground_layer_2",
   "autoTileSets":[
     {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[20,27,26,9,16,19,0,8,15,0,21,10,31,30,32,0,],},
   ],
@@ -9,7 +9,7 @@
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"ts_ground_0",
+  "name":"ts_ground_layer_2",
   "out_columns":9,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -20,8 +20,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_ground_grass_stone_tile",
-    "path":"sprites/spr_ground_grass_stone_tile/spr_ground_grass_stone_tile.yy",
+    "name":"spr_ground_grass_soil_tile_2",
+    "path":"sprites/spr_ground_grass_soil_tile_2/spr_ground_grass_soil_tile_2.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
