@@ -1,0 +1,41 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"ts_decorations",
+  "autoTileSets":[],
+  "macroPageTiles":{
+    "SerialiseHeight":3,
+    "SerialiseWidth":10,
+    "TileCompressedData":[
+      -6,0,1,1,-4,0,19,44,0,16,17,12,13,0,14,15,0,56,0,28,29,24,25,0,26,27,
+    ],
+    "TileDataFormat":1,
+  },
+  "name":"ts_decorations",
+  "out_columns":8,
+  "out_tilehborder":2,
+  "out_tilevborder":2,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_flowers_stones_tile",
+    "path":"sprites/spr_flowers_stones_tile/spr_flowers_stones_tile.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":60,
+}
