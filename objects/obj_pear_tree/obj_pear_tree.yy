@@ -9,8 +9,8 @@
   "name":"obj_pear_tree",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Trees",
+    "path":"folders/Objects/Trees.yy",
   },
   "parentObjectId":{
     "name":"obj_tree",

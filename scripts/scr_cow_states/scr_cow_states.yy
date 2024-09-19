@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_cow_states",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_cow_states",
+  "parent":{
+    "name":"Animals",
+    "path":"folders/Scripts/Animals.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
